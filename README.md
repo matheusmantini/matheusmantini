@@ -80,10 +80,4 @@
     <a target="_blank" href="https://www.linkedin.com/in/matheusmantini/">
     <img align="center" alt="Mat-LinkedIn" title="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
     </a>
-    
-    
-    
-     ![Snake animation](https://github.com/matheusmantini/matheusmantini/blob/main/github-contribution-grid-snake.svg)
-  </div>
-  
  
