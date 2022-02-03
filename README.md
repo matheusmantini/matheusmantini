@@ -22,6 +22,7 @@
       <img align="center" alt="Mat-HTML" title="HTML5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/>
       <img align="center" alt="Mat-CSS" title="CSS" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/>
       <img align="center" alt="Mat-Js" title="JAVASCRIPT" width= 62; src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"/>
+      <img align="center" alt="Mat-Bootstrap" title="BOOTSTRAP" width= 62; src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"/>      
     </td>
     <td align="center">
       <img align="center" alt="Mat-React" title="REACT" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
