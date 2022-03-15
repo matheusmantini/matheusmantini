@@ -31,8 +31,6 @@
   <tr>
     <th scope="row">Back-end</th>
     <td align="center">
-      <img align="center" alt="Mat-Python" title="PYTHON" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
-      <img align="center" alt="Mat-PHP" title="PHP" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"/>
     </td>
     <td align="center">
       <img align="center" alt="Mat-Typescript" title="TYPESCRIPT" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/>
