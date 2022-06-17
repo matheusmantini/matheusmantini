@@ -30,10 +30,10 @@
   </tr>
   <tr>
     <th scope="row">Back-end</th>
-    <td align="center">
+    <td align="center">      
+      <img align="center" alt="Mat-Typescript" title="TYPESCRIPT" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/>
     </td>
     <td align="center">
-      <img align="center" alt="Mat-Typescript" title="TYPESCRIPT" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/>
       <img align="center" alt="Mat-Node" title="NODE JS" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>      
     </td>
   </tr>
