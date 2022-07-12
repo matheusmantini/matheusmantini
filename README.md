@@ -32,18 +32,18 @@
     <th scope="row">Back-end</th>
     <td align="center">      
       <img align="center" alt="Mat-Typescript" title="TYPESCRIPT" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/>
+      <img align="center" alt="Mat-Node" title="NODE JS" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>  
     </td>
-    <td align="center">
-      <img align="center" alt="Mat-Node" title="NODE JS" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>      
+    <td align="center">    
     </td>
   </tr>
   <tr>
     <th scope="row">Banco de Dados</th>
     <td align="center">      
-      <img align="center" alt="Mat-Postgresql" title="POSTGRESQL" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/>    
+      <img align="center" alt="Mat-Postgresql" title="POSTGRESQL" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/>  
+      <img align="center" alt="Mat-MySql" title="MYSQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>  
     </td>
     <td align="center">
-      <img align="center" alt="Mat-MySql" title="MYSQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>
     </td>
   </tr>
   <tr>
