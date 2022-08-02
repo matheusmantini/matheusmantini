@@ -29,7 +29,5 @@
     <a target="_blank" href="https://www.linkedin.com/in/matheusmantini/">
     <img align="center" alt="Mat-LinkedIn" title="LinkedIn" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
     </a>
-              
-    ##
-    
-    ![Snake animation](https://github.com/matheusmantini/matheusmantini/blob/output/github-contribution-grid-snake.svg)
+                 
+  ![Snake animation](https://github.com/matheusmantini/matheusmantini/blob/output/github-contribution-grid-snake.svg)
