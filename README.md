@@ -1,4 +1,8 @@
 <h2>Olá! Eu sou o Matheus Mantini, Desenvolvedor Web Fullstack!</h2>
+<h3>Vamos conversar e aumentar minha rede? </h3>
+<a target="_blank" href="https://www.linkedin.com/in/matheusmantini/">
+  <img align="center" alt="Mat-LinkedIn" title="LinkedIn" height="10em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
 <p>Veja abaixo alguns detalhes sobre mim 🔍</p>
 
 <div align="center">
@@ -23,14 +27,6 @@
     <img height="50em" title="JEST" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />         
     <img height="50em" title="GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   </div> 
-  
-  <div style="display: inline_block;"><br>
-    
-  ##
-  <h2>Contato: </h2>
-  <a target="_blank" href="https://www.linkedin.com/in/matheusmantini/">
-  <img align="center" alt="Mat-LinkedIn" title="LinkedIn" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-  
+   
   ##               
   ![Snake animation](https://github.com/matheusmantini/matheusmantini/blob/output/github-contribution-grid-snake.svg)
