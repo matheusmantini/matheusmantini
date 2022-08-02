@@ -9,7 +9,8 @@
   
   
     <h2>Habilidades: </h2>
-    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
     
       <img align="center" alt="Mat-HTML" title="HTML5" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/>
       <img align="center" alt="Mat-CSS" title="CSS" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/>
