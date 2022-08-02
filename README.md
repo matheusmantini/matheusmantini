@@ -8,7 +8,6 @@
 </div>
   
   
-  <div style="display: inline_block;"><br>
     <h2>Habilidades: </h2>
     
     
@@ -35,7 +34,7 @@
       <img align="center" alt="Mat-Jest" title="JEST" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/>
       
      <img align="center" alt="Mat-GIT" title="GIT" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-  </div>
+  
   
   <div style="display: inline_block;"><br>
     <h2>Contato: </h2>
