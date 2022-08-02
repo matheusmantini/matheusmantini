@@ -7,11 +7,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmantini&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  
-    <h2>Habilidades: </h2>
+  ##
+  <h2>Habilidades: </h2>
   
   <div style="display: inline-block"><br>
-    <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   </div>
   
     
