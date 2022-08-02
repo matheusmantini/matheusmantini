@@ -1,8 +1,8 @@
 <h2>Olá! Eu sou o Matheus Mantini, Desenvolvedor Web Fullstack!</h2>
-<h3>Vamos conversar e aumentar minha rede? </h3>
-<a target="_blank" href="https://www.linkedin.com/in/matheusmantini/">
-  <img align="center" alt="Mat-LinkedIn" title="LinkedIn" height="10em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
+<h3>Vamos conversar e aumentar minha rede? <a target="_blank" href="https://www.linkedin.com/in/matheusmantini/">
+  <img align="center" alt="Mat-LinkedIn" title="LinkedIn" height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a></h3>
+
 <p>Veja abaixo alguns detalhes sobre mim 🔍</p>
 
 <div align="center">
