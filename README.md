@@ -27,6 +27,3 @@
     <img height="50em" title="JEST" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />         
     <img height="50em" title="GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   </div> 
-   
-  ##               
-  ![Snake animation](https://github.com/matheusmantini/matheusmantini/blob/output/github-contribution-grid-snake.svg)
