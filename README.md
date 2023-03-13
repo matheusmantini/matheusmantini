@@ -2,14 +2,6 @@
 <h3>Vamos conversar e aumentar minha rede? <a target="_blank" href="https://www.linkedin.com/in/matheusmantini/">
   <img align="center" alt="Mat-LinkedIn" title="LinkedIn" height="25em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a></h3>
-
-<p>Veja abaixo alguns detalhes sobre mim 🔍</p>
-
-<div align="center">
-  <a href="https://github.com/matheusmantini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmantini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmantini&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
   ##
   <h2>Habilidades: </h2>
